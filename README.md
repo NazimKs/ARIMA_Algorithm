@@ -1,1 +1,1 @@
-# ARIMA_Algorithm
+# ARIMA Algorithm
